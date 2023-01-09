@@ -24,22 +24,22 @@ export const data = {
         },
         {
             "name": "YouTube",
-            "href": "https://www.youtube.com/channel/UCZQY9ZQZ9ZQZ9ZQZ9ZQZ9ZQ",
+            "href": "https://www.youtube.com/channel/UCRfCF6455D8bysDrUixxVhw",
             "icon": <AiOutlineYoutube />
         },
         {
             "name": "Twitter",
-            "href": "https://twitter.com/derekprieur",
+            "href": "https://twitter.com/derekprieur_",
             "icon": <AiOutlineTwitter />
         },
         {
             "name": "TikTok",
-            "href": "https://www.tiktok.com/@derekprieur",
+            "href": "https://www.tiktok.com/@derekprieur_",
             "icon": <IoLogoTiktok />
         },
         {
             "name": "LinkedIn",
-            "href": "https://www.linkedin.com/in/derekprieur/",
+            "href": "https://www.linkedin.com/in/derek-prieur-b23b67226/",
             "icon": <AiOutlineLinkedin />
         },
         {

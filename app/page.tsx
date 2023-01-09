@@ -30,7 +30,7 @@ export default function Home() {
     return (
       <a href={href} target='_blank' className='text-white'>
         <div className='flex'>
-          <h2 className='font-semibold text-3xl'>{icon}</h2>
+          <h2 className='font-semibold text-3xl hover:scale-110 duration-100'>{icon}</h2>
         </div>
       </a>
     )

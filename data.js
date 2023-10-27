@@ -8,10 +8,6 @@ export const data = {
     "avatar": "https://pbs.twimg.com/profile_images/1602395494000492547/tBma79J2_400x400.jpg",
     "links": [
         {
-            "name": "The Vegan Viewpoint",
-            "href": "https://theveganviewpoint.com/"
-        },
-        {
             "name": "Web Development Portfolio",
             "href": "https://www.derekprieur.dev/"
         }
@@ -23,19 +19,9 @@ export const data = {
             "icon": <AiOutlineInstagram />
         },
         {
-            "name": "YouTube",
-            "href": "https://www.youtube.com/channel/UCRfCF6455D8bysDrUixxVhw",
-            "icon": <AiOutlineYoutube />
-        },
-        {
             "name": "Twitter",
             "href": "https://twitter.com/derekprieur_",
             "icon": <AiOutlineTwitter />
-        },
-        {
-            "name": "TikTok",
-            "href": "https://www.tiktok.com/@derekprieur_",
-            "icon": <IoLogoTiktok />
         },
         {
             "name": "LinkedIn",
